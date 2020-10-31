@@ -1,0 +1,29 @@
+body {
+    background-color:plum;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: lightgreen; 
+}
+
+main p{
+    color:rgb(104, 104, 104);
+    
+}
+
+footer {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color: cornflowerblue;
+    background-color:lightgreen;
+    position:absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    
+}
